@@ -29,5 +29,9 @@ main {
     grid-template-columns: repeat(3, 1fr);
     grid-gap: 4.75rem;
     list-style: none;
+
+    @media only screen and (max-width: 600px) {
+      grid-template-columns: repeat(1, 1fr);
+    }
   }
 }

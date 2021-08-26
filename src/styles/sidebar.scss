@@ -29,4 +29,18 @@ nav.sidebar {
 
     width: 100%;
   }
+  @media only screen and (max-width: 600px) {
+    width: 100%;
+    max-width: 100vw;
+    box-sizing: border-box;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    .buttons-container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+  }
 }

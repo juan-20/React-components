@@ -93,16 +93,137 @@
           "Value": "80%"
         }
       ],
-      "Metascore": "68",
-      "imdbRating": "7.5",
-      "imdbVotes": "714,007",
-      "imdbID": "3",
-      "Type": "movie",
-      "DVD": "10 Apr 2015",
-      "BoxOffice": "$380,270,577",
-      "Production": "Lucasfilm Ltd.",
-      "Website": "N/A",
-      "Response": "True"
+      "imdbID": "3"
+    },
+    {
+      "Genre_id": 2,
+      "Title": "Thor: Ragnarok",
+      "Runtime": "130 min",
+      "Poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr9Ql3T-MXK5X_x2lHdNB4lmB0XC_zFHTCtcIT6YwGbXgrNdbT",
+      "Ratings": [
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "93%"
+        }
+      ],
+      "imdbID": "4"
+    },
+    {
+      "Genre_id": 2,
+      "Title": "Jojo Rabbit",
+      "Runtime": "108 min",
+      "Poster": "https://m.media-amazon.com/images/I/516TSo6T4+L.jpg",
+      "Ratings": [
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "94%"
+        }
+      ],
+      "imdbID": "5"
+    },
+    {
+      "Genre_id": 3,
+      "Title": "Chernobyl",
+      "Runtime": "1 temp",
+      "Poster": "https://upload.wikimedia.org/wikipedia/en/a/a7/Chernobyl_2019_Miniseries.jpg",
+      "Ratings": [
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "96%"
+        }
+      ],
+      "imdbID": "6"
+    },
+    {
+      "Genre_id": 4,
+      "Title": "O Farol",
+      "Runtime": "110 min",
+      "Poster": "https://br.web.img3.acsta.net/pictures/19/12/03/16/59/4821553.jpg",
+      "Ratings": [
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "82%"
+        }
+      ],
+      "imdbID": "8"
+    },
+    {
+      "Genre_id": 4,
+      "Title": "Parasita",
+      "Runtime": "130 min",
+      "Poster": "https://veja.abril.com.br/wp-content/uploads/2020/02/poster-filme-parasite.jpg?quality=70&strip=info",
+      "Ratings": [
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "90%"
+        }
+      ],
+      "imdbID": "9"
+    },
+    {
+      "Genre_id": 4,
+      "Title": "Cidade de deus",
+      "Runtime": "135 min",
+      "Poster": "https://upload.wikimedia.org/wikipedia/pt/1/10/CidadedeDeus.jpg",
+      "Ratings": [
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "92%"
+        }
+      ],
+      "imdbID": "10"
+    },
+    {
+      "Genre_id": 4,
+      "Title": "O lagosta",
+      "Runtime": "119 min",
+      "Poster": "https://upload.wikimedia.org/wikipedia/pt/2/29/The_Lobster.jpg",
+      "Ratings": [
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "77%"
+        }
+      ],
+      "imdbID": "11"
+    },
+    {
+      "Genre_id": 5,
+      "Title": "Hereditário",
+      "Runtime": "127 min",
+      "Poster": "https://br.web.img3.acsta.net/pictures/18/06/14/13/11/1751062.jpg",
+      "Ratings": [
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "74%"
+        }
+      ],
+      "imdbID": "12"
+    },
+    {
+      "Genre_id": 6,
+      "Title": "Ilha dos cães",
+      "Runtime": "105 min",
+      "Poster": "https://imagens.publicocdn.com/imagens.aspx/614529?tp=KM",
+      "Ratings": [
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "89%"
+        }
+      ],
+      "imdbID": "13"
+    },
+    {
+      "Genre_id": 6,
+      "Title": "Os Irmãos Willoughby",
+      "Runtime": "92 min",
+      "Poster": "https://br.web.img3.acsta.net/pictures/20/04/10/01/31/3480111.jpg",
+      "Ratings": [
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "76%"
+        }
+      ],
+      "imdbID": "14"
     }
   ]
 }
